@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tolonious
 - 👀 I’m interested in learning the wonderous world of programming
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on learning/educational material and over all algorthimic trading once skilled.
+- 💞️ I’m looking to collaborate on learning/educational material.
 - 📫 How to reach me Twitter: @TJack0205 
 
 <!---

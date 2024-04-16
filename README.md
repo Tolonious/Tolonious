@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Tolonious
-- 👀 I’m interested in learning the wonderous world of programming & Data Science. 
-- 🌱 I’m currently learning C++/Python/JavaScript/Anchor/HTML.
-- 💞️ I’m looking to collaborate on learning/educational material/analytic projects.
-- 📫 How to reach me Discord: tolonious
+🚀 Hello, I'm @Tolonious!
+🌟 Exploring the wondrous world of programming and data science with an insatiable curiosity.
+👨‍💻 Currently honing my skills in C++, Python, SQL, and delving into more exciting technologies.
+🤝 Open to collaborating on innovative learning tools, educational projects, and data pipeline ventures.
+📬 Reach out to me on Discord @Fazer
 
 <!---
 Tolonious/Tolonious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
